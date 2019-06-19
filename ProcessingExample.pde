@@ -6,9 +6,6 @@
  AUTHOR: ABI PRICE
  DATE: 01/11/18
  VERSION: 1
- 
- REFERENCES:
- TO DO: 
  */
 
 // Declare variables
